@@ -10,6 +10,9 @@ Identificar quantas pessoas tem na fila de espera e estimar quanto tempo demora 
 Rubrica:
 
 Nota 6 - Detectar pessoas que estão no ambiente em vídeo com uma IA treinada para isso
+
 Nota 7 - Detectar as pessoas que estão nessa fila com o separador de filas.
+
 Nota 9 - Detectar e calcular quanto tempo demorou para uma pessoa se movimentar nessa fila
+
 Nota 10 - Fazer o cálculo de quanto tempo essa pessoa será atendida
