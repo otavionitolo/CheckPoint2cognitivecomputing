@@ -3,7 +3,10 @@ CheckPoint2 Desenvolver uma aplicação prática e inovadora de visão computaci
 
 Ideia:
 
-Identificar quantas pessoas tem na fila de espera e estimar quanto tempo demora para serem atendidas.
+Por meio de um sistema de visão computacional, faremos a identificação automática e em tempo real do número de pessoas na fila de espera. 
+Isso será realizado utilizando algoritmos de detecção de objetos, como YOLO, 
+treinados especificamente para reconhecer pessoas em uma determinada área. Com essa informação em mãos, poderemos estimar o tempo de espera 
+com base em modelos preditivos que levam em conta a taxa de chegada de novas pessoas na fila e a velocidade média de atendimento.
 
 
 		
@@ -16,3 +19,4 @@ Nota 7 - Detectar as pessoas que estão nessa fila com o separador de filas.
 Nota 9 - Detectar e calcular quanto tempo demorou para uma pessoa se movimentar nessa fila
 
 Nota 10 - Fazer o cálculo de quanto tempo essa pessoa será atendida
+
